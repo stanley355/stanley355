@@ -24,8 +24,6 @@
 ### Stats
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley355&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Stan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanley355)](https://github.com/anuraghazra/github-readme-stats)
 
 
