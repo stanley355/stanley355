@@ -9,6 +9,7 @@
 :rocket: Projects: 
 - https://lifepal.co.id/asuransi/
 - https://lifepal.co.id/media/ \
+
 💬 Specs: 
 - Rewriting the main pages for company's CR1 
 - Building the company's media pages and increasing their traffic
