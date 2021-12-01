@@ -14,16 +14,20 @@
 - Building the company's media pages and increasing their traffic
 - Developed with React.js, Next.js, Graphql, and Wordpress.
 
-🌱 Learning
+ ## Learning 🌱
 - React.js
 - Next.js
 - Graphql
 - Django
 - Nest.js 
 
-![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
+### Stats
+![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanley355&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stanley355)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **stanley355/stanley355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
