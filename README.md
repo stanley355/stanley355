@@ -1,19 +1,4 @@
-# A foolish software engineer who loves to learn anything about web engineering 👋
-
-## Experience 🔭
-### @Kuark Internasinal  
-:rocket: Project: https://www.komikuark.net/v2/ \
-💬 Specs: Building the company's website using `PHP5`; developing blog and shopping functionality as the main feature.
-
-### @lifepal 🔭
-:rocket: Projects: 
-- https://lifepal.co.id/asuransi/
-- https://lifepal.co.id/media/ \
-
-💬 Specs: 
-- Rewriting the main pages for company's CR1 
-- Building the company's media pages and increasing their traffic
-- Developed with React.js, Next.js, Graphql, and Wordpress.
+## A foolish software engineer who loves to learn anything about web engineering 👋
 
  ## Learning 🌱
 - React.js
