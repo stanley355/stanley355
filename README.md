@@ -1,4 +1,4 @@
-## A foolish software engineer who loves to learn anything about web engineering 👋
+## They call me the foolish engineer 👋
 
  ## Learning 🌱
 - React.js
@@ -6,6 +6,7 @@
 - Graphql
 - Django
 - Nest.js 
+- Rust
 
 ### Stats
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
