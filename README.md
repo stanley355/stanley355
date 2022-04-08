@@ -1,12 +1,5 @@
-## They call me the foolish engineer 👋
+## I hope to do something foolish, creative, and generous 👋
 
- ## Learning 🌱
-- React.js
-- Next.js
-- Graphql
-- Django
-- Nest.js 
-- Rust
 
 ### Stats
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
