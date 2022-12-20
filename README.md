@@ -4,6 +4,8 @@
 ### Stats
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley355&count_private=true&show_icons=true&theme=radical)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stanley355/langs)](https://githubtrends.io)
+
 
 <!--
 **stanley355/stanley355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
